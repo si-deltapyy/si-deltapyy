@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Animasi Header & Visual ala WebGL/Cyberpunk -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,24,30&height=220&section=header&text=Hi%20there,%20I'm%20%40si-deltapyy%20👋&fontSize=38&animation=twinkle&fontColor=ffffff" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,24,30&height=220&section=header&text=Hi%20there,%20I'm%20DeltaPy%20👋&fontSize=38&animation=twinkle&fontColor=ffffff" width="100%" alt="Header Banner" />
 
   <br/>
 
@@ -64,8 +64,8 @@ Saya pendiri **PT Delta Teknologi Indonesia** (DeltapyTech), penyedia solusi IT 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=si-deltapyy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=si-deltapyy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=si-deltapyy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=si-deltapyy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
